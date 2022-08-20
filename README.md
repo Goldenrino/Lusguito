@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lusguito
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and C#
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me lucas-so@hotmail.com
 
